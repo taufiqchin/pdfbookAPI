@@ -1,0 +1,32 @@
+[
+  {
+    "id": "techspot_website",
+    "type": "website",
+    "title": "TechSpot",
+    "url": "https://www.techspot.com/",
+    "thumbnail": "assets/images/techspot.png",
+    "description": "Technology news, reviews, and analysis",
+    "date_added": "2024-12-01T14:30:00Z",
+    "section": "Websites"
+  },
+  {
+    "id": "theverge_tech",
+    "type": "website",
+    "title": "The Verge - Tech",
+    "url": "https://www.theverge.com/tech",
+    "thumbnail": "assets/images/theverge.png",
+    "description": "Technology coverage from The Verge",
+    "date_added": "2024-11-28T16:45:00Z",
+    "section": "Websites"
+  },
+  {
+    "id": "Scratch",
+    "type": "website",
+    "title": "Scratch",
+    "url": "https://scratch.mit.edu/",
+    "thumbnail": "assets/images/scratch.png",
+    "description": "Coding community",
+    "date_added": "2024-11-28T16:45:00Z",
+    "section": "Websites"
+  }
+]
