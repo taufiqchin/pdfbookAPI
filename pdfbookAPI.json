@@ -30,12 +30,12 @@
     "section": "Websites"
   },
   {
-    "id": "Youtube_Auto-Top_Car",
+    "id": "Lp",
     "type": "website",
-    "title": "Auto-Top",
-    "url": "https://youtu.be/WLoLWEyZh4k?si=V_yDSja5lqnnYTFR",
-    "thumbnail": "assets/images/",
-    "description": "Coding community",
+    "title": "Linkin Park",
+    "url": "https://youtu.be/eVTXPUF4Oz4?si=PEInPS60a3fFMzNX",
+    "thumbnail": ""https://raw.githubusercontent.com/taufiqchin/pdfbookAPI.json/main/images/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+    "description": "Linkin Park",
     "date_added": "2024-11-28T16:45:00Z",
     "section": "Websites"
   }
